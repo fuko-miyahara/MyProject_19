@@ -1,0 +1,7 @@
+# "#" で始まる行はコメント
+
+# exe ファイルは要らない時は*.exe
+package-lock.json
+
+# bin フォルダは要らない時はbin/
+node_modules/
